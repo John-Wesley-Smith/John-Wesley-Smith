@@ -27,5 +27,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/johnwesleysmith24?theme=dark&font=Marcellus&ext=contest)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=john-wesley-smith&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/<johnweslewq0c>)](https://www.geeksforgeeks.org/user/<johnweslewq0c>/)
+
+[![John Wesley Smith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=john-wesley-smith&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
